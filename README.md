@@ -23,7 +23,7 @@
 	- [ ] file paths in linux
 	- [ ] using the tab key to complete file paths
 	- [ ] using up and down arrow for history
-- [ ] Work on Git Commands Page  9desc. and images for each)
+- [ ] Work on Git Commands Page (desc. and images for each)
 	- [ ] Repository
 	- [ ] Clone
 	- [ ] Fork
