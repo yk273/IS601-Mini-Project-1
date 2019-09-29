@@ -1,8 +1,9 @@
 # IS601-Mini-Project-1
 
-###Group Members###
+### Group Members
 * Yana Kokit
-* Michelle Remmett 
+* Michelle Remmett
 
-
+### Index
+[Project Description](/ProjectDescription.md)
 
