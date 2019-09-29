@@ -12,7 +12,7 @@
 ### Tasks
 - [ ] Work on the Project Description Page
 - [ ] Work on the Linux Commands Page (desc. and images for each)
-	- [ ] cd
+	- [x] cd
 	- [ ] mkdir
 	- [ ] cp
 	- [ ] pwd
