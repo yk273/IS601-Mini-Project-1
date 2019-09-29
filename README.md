@@ -5,7 +5,7 @@
 * Michelle Remmett
 
 ### Index
-[Project Description](/ProjectDescription.md)
-[Linux Commands](/LinuxCommands.md)
-
+1. [Project Description](/ProjectDescription.md)
+2. [Linux Commands](/LinuxCommands.md)
+3. [Git Commands](/GitCommands.md)
 
