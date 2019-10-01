@@ -8,6 +8,9 @@
 ![cs Example 2](/images/cd_Part2.png)
 
 ### mkdir
+* **mkdir**: Make Directory
+* This command creates a new directory specified with a name (directories can also be referred to as a folders). In this example, a new directory named "Pastels" in the folder "Mediums" is created. The command ls (which lists all files and and folders in the current directory) now lists "Pastels" among the other directories.
+![mkdir Example](/images/mkdir.png)
 
 ### cp
 
