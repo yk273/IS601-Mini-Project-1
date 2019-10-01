@@ -3,7 +3,7 @@
 
 ### Repository
 * A repository holds all the files and revision history for a project on GitHub. Repositories can be individual or shared for collaboration, as well as public or private depending on the project.
-![Repository Image](/images/repository.png)
+![Repository Image](/images/repository.PNG)
 ### Clone
 
 ### Fork
