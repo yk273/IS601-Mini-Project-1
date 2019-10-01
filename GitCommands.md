@@ -8,7 +8,8 @@
 * The clone command is used to duplicate a repository. Cloning creates a local copy of a repository that can be synced with the remote repository on Github. This can be done through HTTPS, which is the web address of the repository, or using an SSH key, which is an encryption method that allows for authentication of a remote computer and user. 
 ![Clone Image](/images/clone.PNG)
 ### Fork
-
+* The fork command creates a copy of a repository. Forking is used to allow the user to manipulate the code without affecting the original project. This is most commonly used to test potential changes to another user’s project, or to use existing code as a base for a new idea. 
+![Fork Image](/images/fork.PNG)
 ### Branch
 
 ### Commit
