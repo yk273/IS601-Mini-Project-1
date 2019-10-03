@@ -13,7 +13,12 @@
 ![mkdir Example](/images/mkdir.png)
 
 ### cp
-
+* **cp**: Copy Files and Directories
+* This command copies files to a location named by the last argument on its command line. If the target is an existing file, cp overwrites it; if it does not exist, cp creates it. The syntax is **cp (source file)(destination file)**. However that is not enough for the line to work: there needs to be an additional *option* input specifying what parts of the file to copy and how to copy them. For the follwing examples, a **-r** option is used, which will recursively copy a folder and create a copy.
+* The first example shows the "Misc" folder being copied into the folder "Art Portfolios" (both are located in Desktop).
+![cp Example 1](/images/cp_Part1.png)
+* The second example shows the "Misc" folder being copied into the folder "Mediums" (one folder is up the directory while the other is down the directory).
+![cp Example 2](/images/cp_Part2.png)
 ### pwd
 
 ### mv
