@@ -20,9 +20,9 @@
 * The second example shows the "Misc" folder being copied into the folder "Mediums" (one folder is up the directory while the other is down the directory).
 ![cp Example 2](/images/cp_Part2.png)
 ### pwd
-
-### mv
-
+* **pwd**: Print Working Directory
+* This command prints the full system path of the current working directory.
+![pwd Example](/images/pwd.png)
 ### rm
 
 ### history
