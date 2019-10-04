@@ -1,6 +1,6 @@
 # Linux Commands 
 
-### **cd**
+### cd
 * **cd**: Change Directory
 * This command changes the working directory to the directory specified by the user. Here is an example of a current working directory, and how it can be changed within the command line. This will move the user "down" the directory.
 ![cd Example 1](/images/cd_Part1.png)
@@ -19,10 +19,19 @@
 ![cp Example 1](/images/cp_Part1.png)
 * The second example shows the "Misc" folder being copied into the folder "Mediums" (one folder is up the directory while the other is down the directory).
 ![cp Example 2](/images/cp_Part2.png)
+
 ### pwd
 * **pwd**: Print Working Directory
 * This command prints the full system path of the current working directory.
 ![pwd Example](/images/pwd.png)
+
+### mv 
+* **mv**: Move Files and Directories
+* This command moves files to another location. This is done by specifying the file/directory and the path you want it to take. Here is an example of moving a file from Desktop tothe "Portraits" directory.  
+![mv Example 1](/images/mv_Part1.png)
+* **mv** can also be used to rename files, as shown in the following example.
+![mv Example 2](/images/mv_Part2.png)
+
 ### rm
 
 ### history
