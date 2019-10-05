@@ -14,7 +14,8 @@
 * Branches are used to create a separate environment for development work within the repository that will not affect other branches. All repositories have one master branch, and can have many different branches.
 ![Branch Image](/images/branch.PNG)
 ### Commit
-
+* Commits are all the tracked saved changes made within a branch. Commits show the specific changes, who made them, and when. Comments can be made on commits for organizational purposes. 
+![Commit Image](/images/commit.PNG)
 ### Merge
 
 ### Checkout
