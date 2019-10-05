@@ -11,7 +11,8 @@
 * The fork command creates a copy of a repository. Forking is used to allow the user to manipulate the code without affecting the original project. This is most commonly used to test potential changes to another user’s project, or to use existing code as a base for a new idea. 
 ![Fork Image](/images/fork.PNG)
 ### Branch
-
+* Branches are used to create a separate environment for development work within the repository that will not affect other branches. All repositories have one master branch, and can have many different branches.
+![Branch Image](/images/branch.PNG)
 ### Commit
 
 ### Merge
