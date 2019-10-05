@@ -8,6 +8,7 @@
 1. [Project Description](/ProjectDescription.md)
 2. [Linux Commands](/LinuxCommands.md)
 3. [Git Commands](/GitCommands.md)
+4. [Change Log](/ChangeLog.md)
 
 ### Tasks
 - [x] ReadMe Page
@@ -18,4 +19,4 @@
 - [ ] Linux Commands Page 
 	- [ ] Vi Section
 	- [ ] desc. and images for each
-- [ ] Changelog Page
+- [ ] Changelog Page 
