@@ -17,7 +17,8 @@
 * Commits are all the tracked saved changes made within a branch. Commits show the specific changes, who made them, and when. Comments can be made on commits for organizational purposes. 
 ![Commit Image](/images/commit.PNG)
 ### Merge
-
+* Merges allow a user to apply changes from one branch to another. This can happen through a pull request or the command line.
+![Merge Image](/images/merge.png)
 ### Checkout
 
 ### Push
