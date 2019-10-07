@@ -43,8 +43,8 @@
 ![history Example](/images/history.png)
 
 ### home directory and ~
-* **\~\**: Home Directory
-* This command returns the user's path back to the beginning (the default path that the user is introduced to when opening the command line). Using the syntax **\cd ~\**, the user will get back to the default "home" directory. 
+* **~**: Home Directory
+* This command returns the user's path back to the beginning (the default path that the user is introduced to when opening the command line). Using the syntax **cd ~**, the user will get back to the default "home" directory. 
 ![Home Return Example](/images/home_return.png)
 
 ### file paths in linux
