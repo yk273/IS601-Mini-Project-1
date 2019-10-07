@@ -24,7 +24,8 @@
 * The checkout command allows users to navigate between different branches. Checking out a branch updates all files in the working directory to match the version within that branch, as well as record all new commits. 
 ![Checkout Image](/images/checkout.PNG)
 ### Push
-
+Push is used to push commits on a local branch to a remote repository. The push command requires two arguments, a remote name and a branch name.
+![Push Image](/images/push.PNG)
 ### Pull
 
 ### Remote Add
