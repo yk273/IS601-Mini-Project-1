@@ -18,6 +18,7 @@
 ![Commit Image](/images/commit.PNG)
 ### Merge
 * Merges allow a user to apply changes from one branch to another. This can happen through a pull request or the command line.
+
 ![Merge Image](/images/merge.png)
 ### Checkout
 * The checkout command allows users to navigate between different branches. Checking out a branch updates all files in the working directory to match the version within that branch, as well as record all new commits. 
