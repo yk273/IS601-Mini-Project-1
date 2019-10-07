@@ -1,13 +1,11 @@
 # Git Commands
-* GitFlow is a collaborative, easily scaled branching model for Git. 
-The general flow is as follows:
+* GitFlow is a collaborative, easily scaled branching model for Git. The general flow is as follows: 
 	* New development is created in feature branches.
 	* Feature branches are created from the develop branch.
 	* A release branch is created from the development branch when new features are ready.
 	* After release, the release branch is merged into the master and development branches.
 	* The master branch only contains released code. 
 	* If there are any issues, a hotfix branch is created and merged into the master and development branches.
-
 
 ### Repository
 * A repository holds all the files and revision history for a project on GitHub. Repositories can be individual or shared for collaboration, as well as public or private depending on the project.
