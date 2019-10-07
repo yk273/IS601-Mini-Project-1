@@ -38,6 +38,9 @@
 ![rm Example](/images/rm_Edit.png)
 
 ### history
+* **history**: Shows History
+* This command shows a list of all commands that have been run in that terminal session. 
+![history Example](/images/history.png)
 
 ### home directory and ~
 
