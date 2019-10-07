@@ -39,6 +39,12 @@
 ![Pull Image](/images/pull.PNG)
 ### Remote Add
 
+### Remote Remove
+
+### Remote Show
+
+### Status
+
 ### Master Branch
 * The master branch is the main branch where all changes are ultimately merged into, and is the working version of a project.
 ![Master Image](/images/master.PNG)
