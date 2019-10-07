@@ -54,5 +54,6 @@
 ![Tab Key Example](https://www.cyberciti.biz/media/new/faq/2018/11/Bash-host-command-auto-completion.gif)
 
 ### Using up and down arrow for history
-
+* In command line, there is an easier way to write lines in command line that the user frequently writes. Instead of entering all that again and again, the user can quickly search their history to find the complete command just by using the up and down arrow keys. The following example shows this in effect.
+![Arrow Key Example](https://i.stack.imgur.com/CrGBj.gif)
 
