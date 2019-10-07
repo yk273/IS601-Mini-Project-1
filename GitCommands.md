@@ -44,7 +44,10 @@
 ### Remote Show
 
 ### Status
+* It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
 
+![Status Image](/images/status.PNG)
 ### Master Branch
 * The master branch is the main branch where all changes are ultimately merged into, and is the working version of a project.
+
 ![Master Image](/images/master.PNG)
