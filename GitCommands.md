@@ -21,7 +21,7 @@
 ![Merge Image](/images/merge.png)
 ### Checkout
 * The checkout command allows users to navigate between different branches. Checking out a branch updates all files in the working directory to match the version within that branch, as well as record all new commits. 
-![Checkout Image](/images/checkout.png)
+![Checkout Image](/images/checkout.PNG)
 ### Push
 
 ### Pull
