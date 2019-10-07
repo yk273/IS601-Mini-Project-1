@@ -1,5 +1,5 @@
 # Git Commands
-*GitFlow is a collaborative, easily scaled branching model for Git. 
+* GitFlow is a collaborative, easily scaled branching model for Git. 
 The general flow is as follows:
 	* New development is created in feature branches.
 	* Feature branches are created from the develop branch.
