@@ -44,7 +44,7 @@
 ### Remote Show
 
 ### Status
-* It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
+* Status checks the state of the working directory and staging area. It also displays all untracked files, whether they are staged or unstaged. Ideally, it will show the message in the image.
 
 ![Status Image](/images/status.PNG)
 ### Master Branch
