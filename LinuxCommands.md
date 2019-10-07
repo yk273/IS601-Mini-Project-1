@@ -35,7 +35,7 @@
 ### rm
 * **rm**: Remove Files
 * This command removes a file (or files) specified with a name (For directories the command is rmdir). This type of deletion is irretrievable and therefore final. In this example, the "MonaLisapng" is deleted from the "Portraits" directory.  
-![rm Example](/images/rm.png)
+![rm Example](/images/rm_Edit.png)
 
 ### history
 
