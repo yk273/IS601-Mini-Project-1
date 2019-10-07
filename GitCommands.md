@@ -25,6 +25,7 @@
 ![Checkout Image](/images/checkout.PNG)
 ### Push
 Push is used to push commits on a local branch to a remote repository. The push command requires two arguments, a remote name and a branch name.
+
 ![Push Image](/images/push.PNG)
 ### Pull
 
