@@ -50,6 +50,8 @@
 ### file paths in linux
 
 ### Using the tab key to complete file paths
+* In command line, there is a way to complete a part of the line, and offers suggestions that can be displayed for a given executable. In the middle of writing part of the line, the user can press the **Tab** button and object will complete itself. In the following example, the user used **Tab** to finish "nixcraft.com", "google.com" and "cyberciti.biz".
+![Tab Key Example](https://www.cyberciti.biz/media/new/faq/2018/11/Bash-host-command-auto-completion.gif)
 
 ### Using up and down arrow for history
 
