@@ -48,6 +48,11 @@
 ![Home Return Example](/images/home_return.png)
 
 ## file paths in linux
+* A file path is a unique location to a file or folder within a file system on a computer. A path is determined by inputing the branches in order to reach the file or folder, seperated by **/**. There are two types of paths: an absolute and and a relative path
+	* An absolute path is defined as the specifying the location of a file or directory from the root directory. Here is an example of a full absolute path.
+![Absolute Path Example](/images/absolute_path.png)
+	* A relative path is defined as path related to the present working directory. Here is an example of a relative path, from the working directory "Art_Portfolio"
+![Relative Path Example](/images/relative_path.png)
 
 ## Using the tab key to complete file paths
 * In command line, there is a way to complete a part of the line, and offers suggestions that can be displayed for a given executable. In the middle of writing part of the line, the user can press the **Tab** button and object will complete itself. In the following example, the user used **Tab** to finish "nixcraft.com", "google.com" and "cyberciti.biz".
