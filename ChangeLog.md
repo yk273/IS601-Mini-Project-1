@@ -52,8 +52,44 @@
 ## Oct. 5, 2019
 ### Tasks:
 Yana Kokit: Created a Changelog file and created a link for in in the Index
+Yana Kokit: Made Changelog Up To Date as of now
 ### Fixes:
 Yana Kokit: Edited Task Page
+## Oct. 7, 2019
+### Tasks:
+* Yana Kokit: Edited rm image
+* Yana Kokit: Edited markdown(headings) for LinuxCommands.md
+* Yana Kokit: Made Changelog Up To Date as of now
+* Michelle Remmett: Added image for checkout
+* Michelle Remmett: Added image for push
+* Michelle Remmett: Added image for pull
+* Michelle Remmett: Changed text and images to be consistently spaced
+* Michelle Remmett: Added image for master branch
+* Michelle Remmett: Added image for status
+### Fixes:
+* Yana Kokit: Attempted to resolve markdown error
+* Yana Kokit: Edited Markdown, tried to fix center align issue
+* Yana Kokit: Removed center-align
+* Michelle Remmett: Resolved image error for checkout
+* Michelle Remmett: Attempted to resolve merge image issue
+* Michelle Remmett: Resolved image error for checkout
+* Michelle Remmett: Resolved text image error
+* Michelle Remmett: Added rest of project requirements to GitCommands list
+* Michelle Remmett: Appended status description
+* Michelle Remmett: Fixed text display issues
+### Features:
+* Yana Kokit: Added description and image for rm
+* Yana Kokit: Added description and image for history
+* Yana Kokit: Added description and image for home directory
+* Yana Kokit: Added description and gif for tab key
+* Yana Kokit: Added description and gif for arrow key
+* Yana Kokit: Added description and image for file path
+* Michelle Remmett: Added description for checkout
+* Michelle Remmett: Added description for push
+* Michelle Remmett: Added description for pull
+* Michelle Remmett: Added description for master branch
+* Michelle Remmett: Added description for status
+* Michelle Remmett: Added GitFlow information
 
 
 
