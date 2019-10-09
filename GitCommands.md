@@ -44,7 +44,9 @@
 
 ![Pull Image](/images/pull.PNG)
 ### Remote Add
+* The remote add command adds a new remote to the directory of the repository. 
 
+![Remote Add Image](/images/remoteadd.PNG)
 ### Remote Remove
 
 ### Remote Show
