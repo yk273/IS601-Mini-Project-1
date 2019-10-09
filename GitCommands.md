@@ -52,7 +52,9 @@
 
 ![Remote Remove Image](/images/remoteremove.PNG)
 ### Remote Show
+* Remote show displays more information about a remote. 
 
+![Remote Show Image](/images/remoteshow.PNG)
 ### Status
 * Status checks the state of the working directory and staging area. It also displays all untracked files, whether they are staged or unstaged. Ideally, it will show the message in the image.
 
