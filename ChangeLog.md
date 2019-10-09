@@ -92,18 +92,27 @@ Yana Kokit: Edited Task Page
 ## Oct. 8, 2019
 ### Tasks:
 * Yana Kokit: Edited Index/Task
-* Yana Kokit: Updated changelog
+## Oct. 9, 2019
+### Tasks:
+* Yana Kokit: Updated Changelog Up To Date as of now
 * Yana Kokit: Changed heading size in GitCommands
-* Yana Kokit: Updated task section
+* Yana Kokit: Updated Task section
 * Yana Kokit: Updated project description
-* Michelle Remmett: Updated Read Me
-* Michelle Remmett: Updated changelog
+* Yana Kokit: Updated LinuxCommands.md
+* Michelle Remmett: Added image for Remote Add
+* Michelle Remmett: Added image for Remote Remove
+* Michelle Remmett: Added image for Remote Show
+* Michelle Remmett: Updated README.md
+* Michelle Remmett: Updated Changelog Up To Date as of now
 ### Fixes:
-* Yana Kokit: Fixed typo in VI
-* Yana Kokit: Fixed changelog typo
+* Yana Kokit: Resolved small typo in VI
+* Yana Kokit: Resolved typo in Changelog
+### Merges:
+* Yana Kokit: Merged branch with master GitCommands.md
+* Yana Kokit: Merged branch with master ChangeLog.md
 ### Features:
 * Yana Kokit: Added image and description for VI
-* Michelle Remmett: Added image and description for Remote Add
-* Michelle Remmett: Added image and description for Remote Remove
-* Michelle Remmett: Added image and description for Remote Show
-* Michelle Remmett: Added project description
+* Michelle Remmett: Added description for Remote Add
+* Michelle Remmett: Added description for Remote Remove
+* Michelle Remmett: Added description for Remote Show
+* Michelle Remmett: Added description for ProjectDescription.md
