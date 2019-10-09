@@ -13,10 +13,10 @@
 ### Tasks
 - [x] ReadMe Page
 - [ ] Project Description Page
-- [ ] Git Commands Page
-	- [X] GitFlow Section
-	- [ ] desc. and images for each
+- [x] Git Commands Page
+	- [x] GitFlow Section
+	- [x] desc. and images for each
 - [ ] Linux Commands Page 
 	- [ ] Vi Section
-	- [X] desc. and images for each
+	- [x] desc. and images for each
 - [ ] Changelog Page 
