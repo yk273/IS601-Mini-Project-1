@@ -12,7 +12,7 @@
 
 ### Tasks
 - [x] ReadMe Page
-- [ ] Project Description Page
+- [x] Project Description Page
 - [x] Git Commands Page
 	- [x] GitFlow Section
 	- [x] desc. and images for each
