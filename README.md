@@ -16,7 +16,7 @@
 - [x] Git Commands Page
 	- [x] GitFlow Section
 	- [x] desc. and images for each
-- [ ] Linux Commands Page 
-	- [ ] Vi Section
+- [x] Linux Commands Page 
+	- [x] Vi Section
 	- [x] desc. and images for each
 - [ ] Changelog Page 
