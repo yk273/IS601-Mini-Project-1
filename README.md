@@ -19,4 +19,4 @@
 - [x] Linux Commands Page 
 	- [x] Vi Section
 	- [x] desc. and images for each
-- [ ] Changelog Page 
+- [x] Changelog Page 
