@@ -1,6 +1,6 @@
 # Vi
 * *vi* or *vim* is a text editor available in almost all Linux distributions, including Git Bash. This is the text editor used to write the files for this repository. *vi* can also accept markdown commands as well, providing the user with the ability to structure and style the data in a more coherent way.
-* To create a file that can ise *vi*, the syntax **touch (file name)** needs to be used, preferably a *.md* file (md stands for Markdown). Here is an example that shows a file being created in Git Bash.
+* To create a file that can use *vi*, the syntax **touch (file name)** needs to be used, preferably a *.md* file (md stands for Markdown). Here is an example that shows a file being created in Git Bash.
 ![Touch Example](/images/touch.PNG)
 * To enter the *vi* text editor, the syntax in the command line would be **vi (file name)**
 ![Vi Example 1](/images/vi_Part1.PNG)
@@ -57,7 +57,7 @@
 
 ## home directory and ~
 * **~**: Home Directory
-* This command returns the user's path back to the beginning (the default path that the user is introduced to when opening the command line). Using the syntax **cd ~**, the user will get back to the default "home" directory. 
+* This command returns the user's path back to the beginning (the default path that the user is introduced to when opening the command line). Using the syntax "cd ~", the user will get back to the default "home" directory. 
 ![Home Return Example](/images/home_return.png)
 
 ## file paths in linux
