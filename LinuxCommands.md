@@ -12,7 +12,7 @@
 ![Vi Example 2](/images/vi_Part2.PNG)
 
 # Linux Commands 
-
+Programs such as Git are Linux/Unix based. Because of this, working with Git requires the knowledge of command line that is seperate from specific commands pertinent to Git Bash. Here are the general commands for controlling and navigating a Linux terminal, as demonstrated in Ubuntu: 
 ## cd
 * **cd**: Change Directory
 * This command changes the working directory to the directory specified by the user. Here is an example of a current working directory, and how it can be changed within the command line. This will move the user "down" the directory.
