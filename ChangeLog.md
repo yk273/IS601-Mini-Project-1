@@ -95,6 +95,7 @@ Yana Kokit: Edited Task Page
 * Yana Kokit: Updated changelog
 * Yana Kokit: Changed heading size in GitCommands
 * Yana Kokit: Updated task section
+* Yana Kokit: Updated project description
 * Michelle Remmett: Updated Read Me
 * Michelle Remmett: Updated changelog
 ### Fixes:
