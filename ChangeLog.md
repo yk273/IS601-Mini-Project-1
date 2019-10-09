@@ -59,7 +59,6 @@ Yana Kokit: Edited Task Page
 ### Tasks:
 * Yana Kokit: Edited rm image
 * Yana Kokit: Edited markdown(headings) for LinuxCommands.md
-* Yana Kokit: Made Changelog Up To Date as of now
 * Michelle Remmett: Added image for checkout
 * Michelle Remmett: Added image for push
 * Michelle Remmett: Added image for pull
@@ -90,6 +89,9 @@ Yana Kokit: Edited Task Page
 * Michelle Remmett: Added description for master branch
 * Michelle Remmett: Added description for status
 * Michelle Remmett: Added GitFlow information
+## Oct. 7, 2019
+### Fixes:
+Yana Kokit: Fixed Changelog typo
 
 
 
