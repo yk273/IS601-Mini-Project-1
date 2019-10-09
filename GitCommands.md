@@ -48,7 +48,9 @@
 
 ![Remote Add Image](/images/remoteadd.PNG)
 ### Remote Remove
+* Remote remove is used to remove a remote URL from the repository. The command is written in Git as remote rm, rather than remote remove. 
 
+![Remote Remove Image](/images/remoteremove.PNG)
 ### Remote Show
 
 ### Status
