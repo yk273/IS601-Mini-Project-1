@@ -93,10 +93,16 @@ Yana Kokit: Edited Task Page
 ### Tasks:
 * Yana Kokit: Edited Index/Task
 * Yana Kokit: Updated changelog
-* Yana Kokit: Fixed changelog typo
+* Yana Kokit: Changed heading size in GitCommands
+* Yana Kokit: Updated task section
 * Michelle Remmett: Updated Read Me
 * Michelle Remmett: Updated changelog
+### Fixes:
+* Yana Kokit: Fixed typo in VI
+* Yana Kokit: Fixed changelog typo
 ### Features:
+* Yana Kokit: Added image and description for VI
 * Michelle Remmett: Added image and description for Remote Add
 * Michelle Remmett: Added image and description for Remote Remove
 * Michelle Remmett: Added image and description for Remote Show
+* Michelle Remmett: Added project description
