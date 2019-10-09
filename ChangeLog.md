@@ -89,9 +89,14 @@ Yana Kokit: Edited Task Page
 * Michelle Remmett: Added description for master branch
 * Michelle Remmett: Added description for status
 * Michelle Remmett: Added GitFlow information
-## Oct. 7, 2019
-### Fixes:
-Yana Kokit: Fixed Changelog typo
-
-
-
+## Oct. 8, 2019
+### Tasks:
+* Yana Kokit: Edited Index/Task
+* Yana Kokit: Updated changelog
+* Yana Kokit: Fixed changelog typo
+* Michelle Remmett: Updated Read Me
+* Michelle Remmett: Updated changelog
+### Features:
+* Michelle Remmett: Added image and description for Remote Add
+* Michelle Remmett: Added image and description for Remote Remove
+* Michelle Remmett: Added image and description for Remote Show
