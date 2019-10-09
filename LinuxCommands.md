@@ -1,3 +1,16 @@
+# Vi
+* *vi* or *vim* is a text editor available in almost all Linux distributions, including Git Bash. This is the text editor used to write the files for this repository. *vi* can also accept markdown commands as well, providing the user with the ability to structure and style the data in a more coherent way.
+* To create a file that can ise *vi*, the syntax **touch (file name)** needs to be used, preferably a *.md* file (md stands for Markdown). Here is an example that shows a file being created in Git Bash.
+![Touch Example](/images/touch.PNG)
+* To enter the *vi* text editor, the syntax in the command line would be **vi (file name)**
+![Vi Example 1](/images/vi_Part1.PNG)
+* Once in the text editor the main keystrokes are:
+	* *i* to go into *INSERT MODE*
+	* *esc* to go into *COMMAND MODE*
+	* To save what had been written on *INSERT MODE*, the user needs to switch to the *COMMAND MODE* and input *:x!* (if the user used a Windows machine while operating Git Bash) or *:wq* (if the user used a Linux/Mac machine while operating Git Bash)
+* The following example shows the LinuxCommands.md file in vi on *INSERT MODE*
+![Vi Example 2](/images/vi_Part2.PNG)
+
 # Linux Commands 
 
 ## cd
