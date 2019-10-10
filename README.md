@@ -9,6 +9,7 @@
 2. [Git Commands](/GitCommands.md)
 3. [Vi/Linux Commands](/LinuxCommands.md)
 4. [Change Log](/ChangeLog.md)
+5. [Additional Sources](/Sources.md)
 
 ### Tasks
 - [x] ReadMe Page
@@ -19,4 +20,5 @@
 - [x] Linux Commands Page 
 	- [x] Vi Section
 	- [x] desc. and images for each
-- [x] Changelog Page 
+- [x] Changelog Page
+- [x] Sources Page
