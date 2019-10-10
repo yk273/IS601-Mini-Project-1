@@ -6,7 +6,7 @@ https://www.webopedia.com/TERM/D/devops_development_operations.html
 ### Docker
 https://docs.docker.com/get-started/
 
-### COntinuous Intergration
+### Continuous Intergration
 https://www.thoughtworks.com/continuous-integration
 
 ### Git
