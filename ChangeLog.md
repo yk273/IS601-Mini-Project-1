@@ -110,6 +110,7 @@ Yana Kokit: Edited Task Page
 ### Fixes:
 * Yana Kokit: Resolved small typo in VI
 * Yana Kokit: Resolved typo in Changelog
+* Yana Kokit: Resolved typo in Sources
 ### Merges:
 * Yana Kokit: Merged branch with master GitCommands.md
 * Yana Kokit: Merged branch with master ChangeLog.md
