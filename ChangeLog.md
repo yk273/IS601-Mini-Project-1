@@ -99,6 +99,9 @@ Yana Kokit: Edited Task Page
 * Yana Kokit: Updated Task section
 * Yana Kokit: Updated project description
 * Yana Kokit: Updated LinuxCommands.md
+* Yana Kokit: Add Sources.md page
+* Yana Kokit: Add sources Sources.md page
+* Yana Kokit: Add Sources to Index/Task in README.md
 * Michelle Remmett: Added image for Remote Add
 * Michelle Remmett: Added image for Remote Remove
 * Michelle Remmett: Added image for Remote Show
