@@ -23,7 +23,9 @@
 
 ![Class Image](/images/classobject.png)
 ## Static
+* A static method is a method that belongs to a class definition rather than an object. Static methods can be called without creating an object for that class. 
 
+![Static Image](/images/static.png)
 ## Property/Attribute
 
 ## Method
