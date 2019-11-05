@@ -8,7 +8,12 @@
 * Don’t Repeat Yourself, or the DRY principle, aims to remove all code duplication through either abstraction or automation in order to produce an efficient, logically sound program. 
 
 ## Design Patterns from Gang of Four
+* The Gang of Four have three main design patterns: creational, structural, and behavioral. 
+	* Creational patterns focus on object creation, rather than instantiating objects directly. 
+	* Structural patterns deal with class and object composition through inheritance in order to create relationships that can form larger structures.
+	* Behavioral patterns target increasing the communication between objects through how they interact.
 
+![Design Pattern Image](/images/designpatterns.png)
 ## Class
 
 ## Object
