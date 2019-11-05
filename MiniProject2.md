@@ -19,7 +19,9 @@
 
 ![Class Image](/images/classobject.png)
 ## Object
+* An object consists of methods and properties to make a particular type of data useful. Objects often model things that can be found in the “real world”. Objects also determine the behavior of the class. 
 
+![Class Image](/images/classobject.png)
 ## Static
 
 ## Property/Attribute
