@@ -5,6 +5,7 @@
 
 ![Control Image](/images/control.PNG)
 ## Don't Repeat Yourself
+* Don’t Repeat Yourself, or the DRY principle, aims to remove all code duplication through either abstraction or automation in order to produce an efficient, logically sound program. 
 
 ## Design Patterns from Gang of Four
 
