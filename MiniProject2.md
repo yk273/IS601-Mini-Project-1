@@ -15,7 +15,9 @@
 
 ![Design Pattern Image](/images/designpatterns.png)
 ## Class
+* A class determines the contents of an object, and how it will behave through defining variables and methods. 
 
+![Class Image](/images/classobject.png)
 ## Object
 
 ## Static
