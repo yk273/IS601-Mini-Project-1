@@ -53,7 +53,9 @@
 
 ![Constructor Image](/images/constructor.PNG)
 ## Factory
+* A factory method  is a creational pattern in which an object can be created without determining the exact class of object that will be created. 
 
+![Factory Image](/images/factory.PNG)
 ## Decorator
 
 ## Extend Class
