@@ -45,7 +45,9 @@
 
 ![Exception Image](/images/exception.PNG)
 ## Unit Test
+* A unit test is code written to test the behavior and functionality of other code.
 
+![Unit Test Image](/images/unittest.PNG)
 ## Constructor
 
 ## Factory
