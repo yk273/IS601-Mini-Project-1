@@ -31,7 +31,11 @@
 
 ![Property Image](/images/property.PNG)
 ## Attribute
+* Attributes store information about instances, and there are two types of attributes.
+	* Class Attributes belong to classes, and are shared by all instances. 
+	* Instance Attributes can have their own attributes, and are not shared by objects. 
 
+![Attribute Image](/images/attribute.PNG)
 ## Method
 
 ## Exception
