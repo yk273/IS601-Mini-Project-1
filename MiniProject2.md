@@ -61,7 +61,9 @@
 
 ![Decorator Image](/images/decorator.PNG)
 ## Extend Class
+* An extended class is a subclass of a superclass. Extended subclasses can use, modify, or override the items inherited from the superclass.
 
+![Extend Class Image](/images/extend.PNG)
 ## CSV Files
 
 ## Reading Files
