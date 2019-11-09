@@ -29,8 +29,8 @@
 ## Property
 * A property has a getter and setter method to access encapsulated data, such as class data. The main purpose of the property function is to create a property of a class.
 
-![Property Image](/images/property.png)
-##Attribute
+![Property Image](/images/property.PNG)
+## Attribute
 
 ## Method
 
