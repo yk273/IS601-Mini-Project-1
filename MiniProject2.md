@@ -49,7 +49,9 @@
 
 ![Unit Test Image](/images/unittest.PNG)
 ## Constructor
+* A constructor is a method that initializes an object after it has been created. 
 
+![Constructor Image](/images/constructor.PNG)
 ## Factory
 
 ## Decorator
