@@ -69,3 +69,7 @@
 
 ![CSV Files Image](/images/csvfile.PNG)
 ## Reading Files
+* Code can be used to manipulate text files, such as reading and writing to the files. 
+
+![Reading Files Image](/images/readingfiles.png)
+
