@@ -65,5 +65,7 @@
 
 ![Extend Class Image](/images/extend.PNG)
 ## CSV Files
+* A comma-separated value file is a delimited text file that stores data in plain text. 
 
+![CSV Files Image](/images/csvfile.PNG)
 ## Reading Files
