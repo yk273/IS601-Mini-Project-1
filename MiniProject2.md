@@ -37,7 +37,9 @@
 
 ![Attribute Image](/images/attribute.PNG)
 ## Method
+* Methods accept parameters as their arguments, manipulate the data, and then produce an output when called.
 
+![Method Image](/images/method.PNG)
 ## Exception
 
 ## Unit Test
