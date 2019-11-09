@@ -41,7 +41,9 @@
 
 ![Method Image](/images/method.PNG)
 ## Exception
+* An exception is something that disrupts the execution of a program. 
 
+![Exception Image](/images/exception.PNG)
 ## Unit Test
 
 ## Constructor
