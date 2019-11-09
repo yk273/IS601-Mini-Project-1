@@ -120,3 +120,51 @@ Yana Kokit: Edited Task Page
 * Michelle Remmett: Added description for Remote Remove
 * Michelle Remmett: Added description for Remote Show
 * Michelle Remmett: Added description for ProjectDescription.md
+## Nov. 4, 2019
+### Tasks:
+* Michelle Remmett: Updated read me to reflect mini project 2 content
+* Michelle Remmett: Added Control image
+* Michelle Remmett: Added Design Pattern image
+* Michelle Remmett: Added Class and Object image
+* Michelle Remmett: Added Static Method image
+### Fixes:
+* Michelle Remmett: Fixed a syntax error on the control section 
+### Features:
+* Michelle Remmett: Added description for Control 
+* Michelle Remmett: Added description for DRY
+* Michelle Remmett: Added description for Design Pattern
+* Michelle Remmett: Added description for Classes
+* Michelle Remmett: Added description for Objects
+* Michelle Remmett: Added description for Static Method
+## Nov. 9, 2019
+### Tasks:
+* Michelle Remmett: Added Property image
+* Michelle Remmett: Added Attribute image
+* Michelle Remmett: Added Method image
+* Michelle Remmett: Added Exception image
+* Michelle Remmett: Added Unit Test image
+* Michelle Remmett: Added Constructor image
+* Michelle Remmett: Added Factory image
+* Michelle Remmett: Added Decorator image
+* Michelle Remmett: Added Extended Class image
+* Michelle Remmett: Added CSV File image
+* Michelle Remmett: Added Reading Files image
+* Michelle Remmett: Updated Source list
+* Michelle Remmett: Updated ChangeLog
+### Fixes:
+* Michelle Remmett: Uploaded Property image to correct location 
+* Michelle Remmett: Uploaded Method image to correct location
+* Michelle Remmett: Removed incorrectly located files
+* Michelle Remmett: Fixed image syntax error 
+### Features:
+* Michelle Remmett: Added description for Property and separated from Attribute
+* Michelle Remmett: Added description for Attributes
+* Michelle Remmett: Added description for Method
+* Michelle Remmett: Added description for Exception
+* Michelle Remmett: Added description for Unit Test
+* Michelle Remmett: Added description for Constructor
+* Michelle Remmett: Added description for Factory
+* Michelle Remmett: Added description for Decorator 
+* Michelle Remmett: Added description for Extended Class
+* Michelle Remmett: Added description for CSV File
+* Michelle Remmett: Added description for Reading Files
