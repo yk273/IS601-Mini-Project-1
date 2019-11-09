@@ -57,7 +57,9 @@
 
 ![Factory Image](/images/factory.PNG)
 ## Decorator
+* A decorator is a wrapper that allows the execution of code before and after the function that is being decorated without modifying the function in order to add new functionality to an existing object without altering its structure. 
 
+![Decorator Image](/images/decorator.PNG)
 ## Extend Class
 
 ## CSV Files
