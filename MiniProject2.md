@@ -26,7 +26,11 @@
 * A static method is a method that belongs to a class definition rather than an object. Static methods can be called without creating an object for that class. 
 
 ![Static Image](/images/static.png)
-## Property/Attribute
+## Property
+* A property has a getter and setter method to access encapsulated data, such as class data. The main purpose of the property function is to create a property of a class.
+
+![Property Image](/images/property.png)
+##Attribute
 
 ## Method
 
